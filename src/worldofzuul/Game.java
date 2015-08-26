@@ -11,7 +11,6 @@ package worldofzuul;
  */
 public class Game {
     String rawText = null;
-    int unusedVar = 0;
     
     public Game()
     {
